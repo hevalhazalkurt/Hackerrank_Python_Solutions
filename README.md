@@ -11,3 +11,4 @@ My HackerRank solutions and challenges
 * [Day 3 : Intro to Conditional Statements](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_3_Intro_to_Conditional_Statements.md)
 * [Day 4 : Class vs. Instance](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_4_Class_vs_Instance.md)
 * [Day 5 : Loops](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_5_Loops.md)
+* [Day 6 : Let's Review](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_6_Lets_Review.md)
