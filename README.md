@@ -12,3 +12,4 @@ My HackerRank solutions and challenges
 * [Day 4 : Class vs. Instance](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_4_Class_vs_Instance.md)
 * [Day 5 : Loops](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_5_Loops.md)
 * [Day 6 : Let's Review](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_6_Lets_Review.md)
+* [Day 7 : Arrays](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_7_Arrays.md)
