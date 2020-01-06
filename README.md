@@ -19,3 +19,4 @@ My HackerRank solutions and challenges
 * [Day 11 : 2D Arrays](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_11_2D_Arrays.md)
 * [Day 12 : Inheritance](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_12_Inheritance.md)
 * [Day 13 : Abstract Classes](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_13_Abstract_Classes.md)
+* [Day 14 : Scope](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_14_Scope.md)
