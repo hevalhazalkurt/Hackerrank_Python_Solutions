@@ -77,31 +77,7 @@ d.computeDifference()
 print(d.maximumDifference)
 ```
 
-
-
-## Solution 1
-
-```python
-class Difference:
-    def __init__(self, a):
-        self.__elements = a
-
-    def computeDifference(self):
-        self.maximumDifference = max(a) - min(a)
-
-_ = input()
-a = [int(e) for e in input().split(' ')]
-print(a)
-
-d = Difference(a)
-d.computeDifference()
-
-print(d.maximumDifference)
-```
-
-
-
-## Solution 2
+## Solution
 
 ```python
 class Difference:
@@ -122,6 +98,7 @@ class Difference:
 
 _ = input()
 a = [int(e) for e in input().split(' ')]
+print(a)
 
 d = Difference(a)
 d.computeDifference()
