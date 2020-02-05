@@ -24,3 +24,4 @@ My HackerRank solutions and challenges
 * [Day 16: Exceptions - String to Integer](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_16_Exceptions_String_to_Integer.md)
 * [Day 17 : More Exceptions](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_17_More_Exceptions.md)
 * [Day 18 : Queues and Stacks](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_18_Queues_and_Stacks.md)
+* [Day 19 : Interfaces](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_19_Interfaces.md)
