@@ -1,7 +1,7 @@
 # HackerRank
 My HackerRank solutions and challenges
 
-
+---
 
 ### 30 Days of Code ⏳
 
@@ -26,3 +26,11 @@ My HackerRank solutions and challenges
 * [Day 18 : Queues and Stacks](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_18_Queues_and_Stacks.md)
 * [Day 19 : Interfaces](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_19_Interfaces.md)
 * [Day 20 : Sorting](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_20_Sorting.md)
+
+
+---
+
+
+### Python Language Proficiency ⏳
+
+* [001 - Say "Hello, World!" With Python](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/001%20-%20Say%20%22Hello%2C%20World!%22%20With%20Python.md)
