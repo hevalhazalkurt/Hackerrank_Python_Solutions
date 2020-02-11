@@ -33,4 +33,5 @@ My HackerRank solutions and challenges
 
 ### Python Language Proficiency ⏳
 
-* [001 - Say "Hello, World!" With Python](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/001%20-%20Say%20%22Hello%2C%20World!%22%20With%20Python.md)
+* [001 - Say "Hello, World!" With Python](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/001_Say_Hello_World_With_Python.md)
+* [002 - Python If-Else](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/002_Python_If_Else.md)
