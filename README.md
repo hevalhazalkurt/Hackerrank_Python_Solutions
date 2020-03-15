@@ -40,3 +40,4 @@ My HackerRank solutions and challenges
 * [005 - Loops](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/005_Loops.md)
 * [006 - Write a function](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/006_Write_a_function.md)
 * [007 - Print Function](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/007_Print_Function.md)
+* [008 - List Comprehensions](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/008_List_Comprehensions.md)
