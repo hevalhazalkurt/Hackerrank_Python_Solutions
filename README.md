@@ -41,3 +41,4 @@ My HackerRank solutions and challenges
 * [006 - Write a function](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/006_Write_a_function.md)
 * [007 - Print Function](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/007_Print_Function.md)
 * [008 - List Comprehensions](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/008_List_Comprehensions.md)
+* [009 - Find the Runner-Up Score](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/009_Find_the_Runner_Up_Score.md)
