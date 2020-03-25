@@ -42,3 +42,4 @@ My HackerRank solutions and challenges
 * [007 - Print Function](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/007_Print_Function.md)
 * [008 - List Comprehensions](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/008_List_Comprehensions.md)
 * [009 - Find the Runner-Up Score](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/009_Find_the_Runner_Up_Score.md)
+* [010 - Nested Lists](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/010_Nested_Lists.md)
