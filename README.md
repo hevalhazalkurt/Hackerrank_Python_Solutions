@@ -53,3 +53,5 @@ My HackerRank solutions and challenges
 * [018 - Find a string](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/018_Find_a_string.md)
 * [019 - String Validators](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/019_String_Validators.md)
 * [020 - Text Alignment](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/020_Text_Alignment.md)
+* [021 - Text Wrap](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/021_Text_Wrap.md)
+* [022 - Designer Door Mat](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/022_Designer_Door_Mat.md)
