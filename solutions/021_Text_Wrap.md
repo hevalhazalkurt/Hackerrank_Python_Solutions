@@ -1,6 +1,6 @@
-# 020 - Text Alignment
+# 021 - Text Alignment
 
-## Text Wrap
+## Task
 
 You are given a string `S` and width `w`.
 
