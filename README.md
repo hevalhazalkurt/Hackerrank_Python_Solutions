@@ -55,3 +55,4 @@ My HackerRank solutions and challenges
 * [020 - Text Alignment](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/020_Text_Alignment.md)
 * [021 - Text Wrap](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/021_Text_Wrap.md)
 * [022 - Designer Door Mat](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/022_Designer_Door_Mat.md)
+* [022 - String Formatting](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/022_String_Formatting.md)
