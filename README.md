@@ -105,5 +105,17 @@ My HackerRank solutions and challenges
 | 26 | [**The Minion Game**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/025_The_Minion_Game.md) | Medium | 40 | 1 | `str` | [link](https://www.hackerrank.com/challenges/the-minion-game/problem) |
 
 
+<br>
 
 ----
+
+<br>
+
+## Contests ⏳
+
+<br>
+
+| No | Question Name | Difficulty | Score | Solution(s) | Subject | HR Link |
+|--|--|--|--|--|--|--|
+| 1 | [**appSMART : Python One**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_appsmart_Python_Dictionary.md) | Hard | 50 | 1 | `str`, `array`, `list`, `sort` | [link](https://www.hackerrank.com/contests/python-start-up/challenges/day-10-dictionary) |
+| 2 | [**Pycode2015 : Dictionary-Assignment**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/2_Pycode2015_Dictionary_Assignment.md) | Medium | 100 | 2 | `hashmap`, `dict`, `str`, `format` | [link](https://www.hackerrank.com/contests/pycode2015/challenges/dictionary-assignment/problem) |
