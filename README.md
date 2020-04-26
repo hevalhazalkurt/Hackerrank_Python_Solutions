@@ -103,6 +103,7 @@ My HackerRank solutions and challenges
 | 24 | [**Alphabet_Rangoli**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/023_Alphabet_Rangoli.md) | Easy | 20 | 1 | `str`, `format` | [link](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) |
 | 25 | [**Capitalize**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/024_Capitalize.md) | Easy | 20 | 1 | `str`, `format` | [link](https://www.hackerrank.com/challenges/capitalize/problem) |
 | 26 | [**The Minion Game**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/025_The_Minion_Game.md) | Medium | 40 | 1 | `str` | [link](https://www.hackerrank.com/challenges/the-minion-game/problem) |
+| 30 | [**collections.Counter()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/030_collections_Counter.md) | Easy | 10 | 1 | `hashmap`, `dict`, `data types`, `collections` | [link](https://www.hackerrank.com/challenges/the-minion-game/problem) |
 
 
 <br>
