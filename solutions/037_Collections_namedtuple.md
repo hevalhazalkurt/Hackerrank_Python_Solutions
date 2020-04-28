@@ -178,7 +178,7 @@ NOTE : There is no penalty for solutions that are correct but have more than 4 l
 <br>
 
 
-## Solution
+## Solution 
 
 ```python
 from collections import namedtuple
