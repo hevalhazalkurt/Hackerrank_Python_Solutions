@@ -106,6 +106,7 @@ My HackerRank solutions and challenges
 | 30 | [**collections.Counter()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/030_collections_Counter.md) | Easy | 10 | 1 | `hashmap`, `dict`, `data types`, `collections` | [link](https://www.hackerrank.com/challenges/collections-counter/problem) |
 | 31 | [**itertools.permutations()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/031_itertools_permutations.md) | Easy | 10 | 1 | `hashmap`, `dict`, `data types`, `itertools`, `permutation` | [link](https://www.hackerrank.com/challenges/itertools-permutations/problem) |
 | 34 | [**DefaultDict Tutorial**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/034_DefaultDict_Tutorial.md) | Easy | 20 | 1 | `hashmap`, `dict`, `data types`, `collections`, `defaultdict` | [link](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) |
+| 37 | [**Collections.namedtuple()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/037_Collections_namedtuple.md) | Easy | 20 | 1 | `hashmap`, `collections`, `namedtuple` | [link](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) |
 
 <br>
 
