@@ -5,118 +5,78 @@
 
 #### Problem
 
-Harold is a kidnapper who wrote a ransom note, but now he is worried it will be traced back to him through his handwriting. He found a magazine and wants to know if he can cut out whole words from it and use them to create an untraceable replica of his ransom note. The words in his note are case-sensitive and he must use only whole words available in the magazine. He cannot use substrings or concatenation to create the words he needs.
-
-Given the words in the magazine and the words in the ransom note, print Yes if he can replicate his ransom note exactly using whole words from the magazine; otherwise, print `No`.
-
-For example, the note is "Attack at dawn". The magazine contains only "attack at dawn". The magazine has all the right words, but there's a case mismatch. The answer is `No`.
+Given two strings, determine if they share a common substring. A substring may be as small as one character. For example, the words "a", "and", "art" share the common substring `a`. The words "be" and "cat" do not share a substring.
 
 <br>
 
 **Function Description**
 
-Complete the `checkMagazine` function in the editor below. It must print `Yes` if the note can be formed using the magazine, or `No`.
+Complete the function `twoStrings` in the editor below. It should return a string, either `YES` or `NO` based on whether the strings share a common substring.
 
-`checkMagazine` has the following parameters:
-
-- `magazine`: an array of strings, each a word in the magazine
-- `note`: an array of strings, each a word in the ransom note
+`twoStrings` has the following parameter(s):
+* `s1`, `s2`: two strings to analyze.
 
 <br>
 
 #### Input Format
 
-The first line contains two space-separated integers, `m` and `n`, the numbers of words in the `magazine` and the `note`..
+The first line contains a single integer `p`, the number of test cases.
 
-The second line contains `m` space-separated strings, each `magazine[i]`.
-
-The third line contains `n` space-separated strings, each `note[i]`.
+The following `p` pairs of lines are as follows:
+* The first line contains string `s1`.
+* The second line contains string `s2`
 
 <br>
 
 #### Constraints
 
-* 1 <= `m,n` <= 30000
-* 1 <= `|magazine[i]|`, `|note[i]|` <= 5
-* Each word consists of English alphabetic letters (i.e., `a` to `z` and `A` to `Z`).
+* `s1` and `s2` consist of characters in the range ascii[a-z].
+* 1 <= `p` <= 10
+* 1 <= `|s1|`, `|s2|` <= 10<sup>5</sup>
 
 
 <br>
 
 #### Output Format
 
-Print `Yes` if he can use the magazine to create an untraceable replica of his ransom note. Otherwise, print `No`.
+For each pair of strings, return `YES` or `NO`.
 
 <br>
 
-**Sample Input 0**
+**Sample Input**
 
 ```
-6 4
-give me one grand today night
-give one grand today
-```
-
-<br>
-
-**Sample Output 0**
-
-```
-Yes
-```
-
-
-<br>
-
-**Sample Input 1**
-
-```
-6 5
-two times three is not four
-two times two is four
+2
+hello
+world
+hi
+world
 ```
 
 <br>
 
-**Sample Output 1**
+**Sample Output**
 
 ```
-No
+YES
+NO
 ```
-
-<br>
-
-**Explanation 1**
-
-'two' only occurs once in the magazine.
-
 
 
 <br>
 
-**Sample Input 2**
+**Explanation**
 
-```
-7 4
-ive got a lovely bunch of coconuts
-ive got some coconuts
-```
 
-<br>
+We have `p = 2` pairs to check:
 
-**Sample Output 2**
+1. `s1 = "hello"`, `s2 = "world"`. The substrings `"o"` and `"l"` are common to both strings.
+2. `a = "hi"`, `b = "world"`. `s1` and `s2` share no common substrings.
 
-```
-No
-```
 
 <br>
 
-**Explanation 2**
 
-Harold's magazine is missing the word `some`.
-
-<br>
 
 
 
@@ -153,84 +113,26 @@ if __name__ == '__main__':
 ## Solution
 
 ```python
-import math
-import os
-import random
-import re
-import sys
-
-# Complete the checkMagazine function below.
-def checkMagazine(magazine, note):
-    m_words = {w: magazine.count(w) for w in magazine}
-
-    for w in note:
-        if w not in m_words or note.count(w) > m_words[w]:
-            print("No")
-            return
+def twoStrings(s1, s2):
+    if len(set(s1).intersection(set(s2))) >= 1:
+        return "YES"
     else:
-        print("Yes")
+        return "NO"
 
 
 if __name__ == '__main__':
-    mn = input().split()
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    m = int(mn[0])
+    q = int(input())
 
-    n = int(mn[1])
+    for q_itr in range(q):
+        s1 = input()
 
-    magazine = input().rstrip().split()
+        s2 = input()
 
-    note = input().rstrip().split()
+        result = twoStrings(s1, s2)
 
-    checkMagazine(magazine, note)
-```
+        fptr.write(result + '\n')
 
----
-
-## Solution 2
-
-```python
-def checkMagazine(magazine, note):
-    m_words = {}
-    n_words = {}
-
-    for w in magazine:
-        if w in m_words:
-            m_words[w] += 1
-        else:
-            m_words[w] = 1
-
-    for w in note:
-        if w in n_words:
-            n_words[w] += 1
-        else:
-            n_words[w] = 1
-
-    print(m_words)
-    print(n_words)
-
-    for w in n_words:
-        if w not in m_words:
-            print("No")
-            return
-        else:
-            if n_words[w] > m_words[w]:
-                print("No")
-                return
-    else:
-        print("Yes")
-
-
-if __name__ == '__main__':
-    mn = input().split()
-
-    m = int(mn[0])
-
-    n = int(mn[1])
-
-    magazine = input().rstrip().split()
-
-    note = input().rstrip().split()
-
-    checkMagazine(magazine, note)
+    fptr.close()
 ```
