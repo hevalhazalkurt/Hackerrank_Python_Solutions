@@ -65,6 +65,7 @@ My HackerRank solutions and challenges
 |  |  |  |  |  |  |  |
 | **3** | **Dictionaries and Hashmaps** |  |  |  |  |  |
 | 3.1. | [**Hash Tables: Ransom Note**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_1_Hash_Tables_Ransom_Note.md) | Easy | 25 | 1 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
+| 3.2. | [**Two Strings**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_2_Two_Strings.md) | Easy | 25 | 1 | `hashmap`, `set` | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
 
 
 <br>
@@ -112,6 +113,9 @@ My HackerRank solutions and challenges
 | 41 | [**Collections.OrderedDict()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/041_Collections_OrderedDict.md) | Easy | 20 | 1 | `hashmap`, `collections`, `orderecdict` | [link](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) |
 | 47 | [**Word Order**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/047_Word_Order.md) | Medium | 50 | 2 | `hashmap`, `dict`, `data types`, `sort`, `collections`, `orderecdict` | [link](https://www.hackerrank.com/challenges/word-order/problem) |
 | 49 | [**Collections.deque()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/049_Collections_deque.md) | Easy | 20 | 1 | `array`, `queue`, `stack`, `list` `collections`, `deque` | [link](https://www.hackerrank.com/challenges/py-collections-deque/problem) |
+| 51 | [**Company Logo**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/051_Company_Logo.md) | Medium | 30 | 1 | `array`, `dict`, `hashmap`, `sort` | [link](https://www.hackerrank.com/challenges/most-commons/problem) |
+
+
 
 <br>
 
