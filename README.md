@@ -111,6 +111,7 @@ My HackerRank solutions and challenges
 | 37 | [**Collections.namedtuple()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/037_Collections_namedtuple.md) | Easy | 20 | 1 | `hashmap`, `collections`, `namedtuple` | [link](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) |
 | 41 | [**Collections.OrderedDict()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/041_Collections_OrderedDict.md) | Easy | 20 | 1 | `hashmap`, `collections`, `orderecdict` | [link](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem) |
 | 47 | [**Word Order**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/047_Word_Order.md) | Medium | 50 | 2 | `hashmap`, `dict`, `data types`, `sort`, `collections`, `orderecdict` | [link](https://www.hackerrank.com/challenges/word-order/problem) |
+| 49 | [**Collections.deque()**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/049_Collections_deque.md) | Easy | 20 | 1 | `array`, `queue`, `stack`, `list` `collections`, `deque` | [link](https://www.hackerrank.com/challenges/py-collections-deque/problem) |
 
 <br>
 
