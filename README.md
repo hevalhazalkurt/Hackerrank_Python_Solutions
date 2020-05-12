@@ -34,7 +34,8 @@ My HackerRank solutions and challenges
 | 18 | [**Day 18 : Queues and Stacks**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_18_Queues_and_Stacks.md) | Easy | 30 | 2 | `queue`, `stack`, `class`, `oop` | [link](https://www.hackerrank.com/challenges/30-queues-stacks/problem) |
 | 19 | [**Day 19 : Interfaces**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_19_Interfaces.md) | Easy | 30 | 1 | `interface`, `class`, `oop` | [link](https://www.hackerrank.com/challenges/30-interfaces/problem) |
 | 20 | [**Day 20 : Sorting**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_20_Sorting.md) | Easy | 30 | 1 | `swap`, `sort`, `bubble sort` | [link](https://www.hackerrank.com/challenges/30-sorting/problem) |
-
+| 21 | **Day 21 : Generics** | Easy | 30 |  | not available for python | [link](https://www.hackerrank.com/challenges/30-generics/problem) |
+| 22 | [**Day 22 : Binary Search Trees**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_22_Binary_Search_Trees.md) | Easy | 30 | 1 | `data structures`, `bst`, `binary search tree` | [link](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) |
 
 
 <br>
