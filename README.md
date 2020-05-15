@@ -36,6 +36,8 @@ My HackerRank solutions and challenges
 | 20 | [**Day 20 : Sorting**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_20_Sorting.md) | Easy | 30 | 1 | `swap`, `sort`, `bubble sort` | [link](https://www.hackerrank.com/challenges/30-sorting/problem) |
 | 21 | **Day 21 : Generics** | Easy | 30 |  | not available for python | [link](https://www.hackerrank.com/challenges/30-generics/problem) |
 | 22 | [**Day 22 : Binary Search Trees**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_22_Binary_Search_Trees.md) | Easy | 30 | 1 | `data structures`, `bst`, `binary search tree` | [link](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) |
+| 23 | [**Day 23 : BST Level-Order Traversal**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_23_BST_Level_Order_Traversal.md) | Easy | 30 | 1 | `data structures`, `bst`, `binary search tree` | [link](https://www.hackerrank.com/challenges/30-binary-trees/problem) |
+
 
 
 <br>
