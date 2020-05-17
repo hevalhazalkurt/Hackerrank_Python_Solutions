@@ -7,7 +7,7 @@ My HackerRank solutions and challenges
 
 <br>
 
-## 30 Days of Code ⏳
+## 30 Days of Code ✅
 
 <br>
 
@@ -37,7 +37,12 @@ My HackerRank solutions and challenges
 | 21 | **Day 21 : Generics** | Easy | 30 |  | not available for python | [link](https://www.hackerrank.com/challenges/30-generics/problem) |
 | 22 | [**Day 22 : Binary Search Trees**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_22_Binary_Search_Trees.md) | Easy | 30 | 1 | `data structures`, `bst`, `binary search tree` | [link](https://www.hackerrank.com/challenges/30-binary-search-trees/problem) |
 | 23 | [**Day 23 : BST Level-Order Traversal**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_23_BST_Level_Order_Traversal.md) | Easy | 30 | 1 | `data structures`, `bst`, `binary search tree` | [link](https://www.hackerrank.com/challenges/30-binary-trees/problem) |
-
+| 24 | [**Day 24 : More Linked Lists**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_24_More_Linked_Lists.md) | Easy | 30 | 1 | `data structures`, `linked list`, `list` | [link](https://www.hackerrank.com/challenges/30-linked-list-deletion/problem) |
+| 25 | [**Day 25 : Running Time and Complexity**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_25_Running_Time_and_Complexity.md) | Medium | 30 | 1 | `math`, `big-o`, `time complexity` | [link](https://www.hackerrank.com/challenges/30-running-time-and-complexity/problem) |
+| 26 | [**Day 26 : Nested Logic**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_26_Nested_Logic.md) | Easy | 30 | 1 | `if-elif-else`, `conditionals`, `logicals`, `control flow` | [link](https://www.hackerrank.com/challenges/30-nested-logic/problem) |
+| 27 | [**Day 27 : Testing**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_27_Testing.md) | Easy | 30 | 1 | `test` | [link](https://www.hackerrank.com/challenges/30-testing/problem) |
+| 28 | [**Day 28 : RegEx, Patterns, and Intro to Databases**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_28_RegEx_Patterns_and_Intro_to_Databases.md) | Medium | 30 | 1 | `test` | [link](https://www.hackerrank.com/challenges/30-regex-patterns/problem) |
+| 29 | [**Day 29 : Bitwise AND**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/Day_29_Bitwise_AND.md) | Medium | 30 | 1 | `bitwise`, `logicals` | [link](https://www.hackerrank.com/challenges/30-bitwise-and/problem) |
 
 
 <br>
