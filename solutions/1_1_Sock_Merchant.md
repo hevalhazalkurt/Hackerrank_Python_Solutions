@@ -122,7 +122,6 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
-
 ```
 
 
@@ -142,6 +141,49 @@ import sys
 def sockMerchant(n, ar):
     colors = {c:ar.count(c) for c in ar}
     pairs = sum([colors[c] // 2 for c in colors])
+    return pairs
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    n = int(input())
+
+    ar = list(map(int, input().rstrip().split()))
+
+    result = sockMerchant(n, ar)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
+```
+
+
+
+## Solution 3
+
+```python
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the sockMerchant function below.
+def sockMerchant(n, ar):
+    colors = {}
+    for color in ar:
+        if color in colors:
+            colors[color] += 1
+        else:
+            colors[color] = 1
+
+    pairs = 0
+
+    for color in colors:
+        pairs += colors[color] // 2
+
     return pairs
 
 if __name__ == '__main__':
