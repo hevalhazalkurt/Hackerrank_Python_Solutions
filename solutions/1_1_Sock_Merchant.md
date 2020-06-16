@@ -95,7 +95,7 @@ if __name__ == '__main__':
 ```
 
 
-## Solution
+## Solution 1
 
 ```python
 #!/bin/python3
@@ -123,4 +123,37 @@ if __name__ == '__main__':
 
     fptr.close()
 
+```
+
+
+
+## Solution 2
+
+```python
+#!/bin/python3
+
+import math
+import os
+import random
+import re
+import sys
+
+# Complete the sockMerchant function below.
+def sockMerchant(n, ar):
+    colors = {c:ar.count(c) for c in ar}
+    pairs = sum([colors[c] // 2 for c in colors])
+    return pairs
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    n = int(input())
+
+    ar = list(map(int, input().rstrip().split()))
+
+    result = sockMerchant(n, ar)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
 ```
