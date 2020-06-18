@@ -110,7 +110,7 @@ if __name__ == '__main__':
 ```
 
 
-## Solution
+## Solution 1
 
 ```python
 import math
@@ -120,17 +120,61 @@ import re
 import sys
 
 def countingValleys(n, s):
-    l = 0
+    a = 0
     v = 0
 
-    for c in s:
-        if c == "U":
-            l += 1
-            if l == 0:
+    for i in s:
+        if i == "U":
+            a += 1
+            if a == 0:
                 v += 1
         else:
-            l -= 1
+            a -= 1
 
+    return v
+
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    n = int(input())
+
+    s = input()
+
+    result = countingValleys(n, s)
+
+    fptr.write(str(result) + '\n')
+
+    fptr.close()
+```
+
+<br>
+
+
+## Solution 2
+
+```python
+import math
+import os
+import random
+import re
+import sys
+
+def countingValleys(n, s):
+    a = 0
+    l = [0]
+    v = 0
+
+    for i in range(n):
+        if s[i] == "U":
+            a += 1
+        else:
+            a -= 1
+        l.append(a)
+
+    for i,s in enumerate(l):
+        if l[i-1] < 0 and s == 0:
+            v += 1
     return v
 
 
