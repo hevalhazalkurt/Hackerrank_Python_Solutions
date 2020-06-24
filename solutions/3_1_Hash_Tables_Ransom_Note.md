@@ -148,7 +148,7 @@ if __name__ == '__main__':
 ```
 
 
-## Solution
+## Solution 1
 
 ```python
 import math
@@ -217,6 +217,41 @@ def checkMagazine(magazine, note):
                 return
     else:
         print("Yes")
+
+
+if __name__ == '__main__':
+    mn = input().split()
+
+    m = int(mn[0])
+
+    n = int(mn[1])
+
+    magazine = input().rstrip().split()
+
+    note = input().rstrip().split()
+
+    checkMagazine(magazine, note)
+```
+
+
+---
+
+## Solution 3
+
+```python
+from collections import Counter
+
+def checkMagazine(magazine, note):
+    m = Counter(magazine)
+    n = Counter(note)
+
+    for w in n:
+        if w not in m:
+            return print("No")
+        else:
+            if m[w] < n[w]:
+                return print("No")
+    return print("Yes")
 
 
 if __name__ == '__main__':
