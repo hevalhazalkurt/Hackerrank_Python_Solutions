@@ -60,8 +60,8 @@ My HackerRank solutions and challenges
 |--|--|--|--|--|--|--|
 |  |  |  |  |  |  |  |
 | **1** | **Warm-up Challenges** |  |  |  |  |  |
-| 1.1. | [**Sock Merchant**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_1_Sock_Merchant.md) | Easy | 10 | 1 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/sock-merchant/problem) |
-| 1.2. | [**Counting Valleys**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_2_Counting_Valleys.md) | Easy | 15 | 1 | `array`, `list` | [link](https://www.hackerrank.com/challenges/counting-valleys/problem) |
+| 1.1. | [**Sock Merchant**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_1_Sock_Merchant.md) | Easy | 10 | 3 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/sock-merchant/problem) |
+| 1.2. | [**Counting Valleys**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_2_Counting_Valleys.md) | Easy | 15 | 2 | `array`, `list` | [link](https://www.hackerrank.com/challenges/counting-valleys/problem) |
 | 1.3. | [**Jumping on the Clouds**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_3_Jumping_on_the_Clouds.md) | Easy | 20 | 1 | `array`, `list`, | [link](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) |
 | 1.4. | [**Repeated String**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/1_4_Repeated_String.md) | Easy | 20 | 1 | `str` | [link](https://www.hackerrank.com/challenges/repeated-string/problem) |
 |  |  |  |  |  |  |  |
@@ -72,7 +72,7 @@ My HackerRank solutions and challenges
 | 2.4. | [**Minimum Swaps 2**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/2_4_Minimum_Swaps_2.md) | Medium | 40 | 1 | `array`, `list`, `swap` | [link](https://www.hackerrank.com/challenges/minimum-swaps-2/problem) |
 |  |  |  |  |  |  |  |
 | **3** | **Dictionaries and Hashmaps** |  |  |  |  |  |
-| 3.1. | [**Hash Tables: Ransom Note**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_1_Hash_Tables_Ransom_Note.md) | Easy | 25 | 1 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
+| 3.1. | [**Hash Tables: Ransom Note**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_1_Hash_Tables_Ransom_Note.md) | Easy | 25 | 3 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
 | 3.2. | [**Two Strings**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_2_Two_Strings.md) | Easy | 25 | 1 | `hashmap`, `set` | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
 
 
