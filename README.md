@@ -73,7 +73,7 @@ My HackerRank solutions and challenges
 |  |  |  |  |  |  |  |
 | **3** | **Dictionaries and Hashmaps** |  |  |  |  |  |
 | 3.1. | [**Hash Tables: Ransom Note**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_1_Hash_Tables_Ransom_Note.md) | Easy | 25 | 3 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/ctci-ransom-note/problem) |
-| 3.2. | [**Two Strings**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_2_Two_Strings.md) | Easy | 25 | 1 | `hashmap`, `set` | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
+| 3.2. | [**Two Strings**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_2_Two_Strings.md) | Easy | 25 | 2 | `hashmap`, `set` | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
 
 
 <br>
