@@ -76,6 +76,7 @@ My HackerRank solutions and challenges
 | 3.2. | [**Two Strings**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_2_Two_Strings.md) | Easy | 25 | 2 | `hashmap`, `set` | [link](https://www.hackerrank.com/challenges/two-strings/problem) |
 | 3.3. | [**Sherlock and Anagrams**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_3_Sherlock_and_Anagrams.md) | Medium | 50 | 1 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem) |
 | 3.4. | [**Count Triplets**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_4_Count_Triplets.md) | Medium | 35 | 2 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/count-triplets-1/problem) |
+| 3.5. | [**Frequency Queries**](https://github.com/hevalhazalkurt/Hackerrank_Python_Solutions/blob/master/solutions/3_5_Frequency_Queries.md) | Medium | 40 | 2 | `hashmap`, `dict` | [link](https://www.hackerrank.com/challenges/frequency-queries/problem) |
 
 
 <br>
