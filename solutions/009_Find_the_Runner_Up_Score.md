@@ -92,3 +92,17 @@ if __name__ == '__main__':
     ordr = sorted(scores, reverse=True)
     print(ordr[1])
 ```
+
+
+
+## Solution 4
+
+```
+def remove_n(list, n):
+    new_arr = [num for num in list if num != n]
+    return new_arr
+
+arr = list(arr)
+new_arr = remove_n(arr, max(arr))
+print(max(new_arr))
+```
