@@ -106,3 +106,19 @@ arr = list(arr)
 new_arr = remove_n(arr, max(arr))
 print(max(new_arr))
 ```
+
+##Solution 5
+...
+if __name__ == '__main__':
+    n = int(input())
+    arr = map(int, input().split())
+    l=[]
+    l=list(arr)
+    l.sort(reverse=True)
+    a=l[0]
+    for i in range (1,n):
+        if l[i]<a:
+            b=l[i]
+            print(int(b))
+            break
+...            
